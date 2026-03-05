@@ -32,11 +32,4 @@ I am a technical professional with a solid background in automation and hardware
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanduarte050508&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanduarte050508&layout=compact&theme=radical" width="300" />
-</p>
-
----
-
-### 🇧🇷 Resumo (PT-BR)
-Técnico em Mecatrônica e estudante de Engenharia de Software na FIAP. Apaixonado por resolver problemas complexos, desde a manutenção industrial até o desenvolvimento de IAs. Criador de uma mão robótica control
+  <img src="https://github-readme-stats.vercel
