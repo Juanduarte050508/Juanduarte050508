@@ -24,8 +24,10 @@ I am a technical professional with a solid background in automation and hardware
 ---
 
 ### 📊 GitHub Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanduarte050508&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanduarte050508&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanduarte050508&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Juan Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanduarte050508&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
