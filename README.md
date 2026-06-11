@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:SEU-EMAIL@AQUI.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Juanduarte050508&style=for-the-badge&color=2F81F7&label=VIEWS" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/juan-duarte-moura"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:juanduarte0505008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Juanduarte050508&style=for-the-badge&color=2F81F7&label=VIEWS" alt="Profile views"/>
 
 </div>
 
