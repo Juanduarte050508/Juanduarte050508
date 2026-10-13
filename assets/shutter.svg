@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Diafragma de câmera fechando: STOP, obrigado por assistir até aqui">
+  <defs>
+    <clipPath id="lens"><circle cx="600" cy="85" r="62"/></clipPath>
+    <radialGradient id="metal" cx="0.4" cy="0.35" r="0.8"><stop offset="0" stop-color="#2a2a2e"/><stop offset="1" stop-color="#121214"/></radialGradient>
+    <linearGradient id="warm" x1="0.0" y1="0.0" x2="2.5" y2="2.5"><stop offset="0" stop-color="#B5121B"/><stop offset="1" stop-color="#FF3B47"/></linearGradient>
+  </defs>
+  <circle cx="600" cy="85" r="72" fill="none" stroke="url(#warm)" stroke-width="3"/>
+  <circle cx="600" cy="85" r="80" fill="none" stroke="#FF3B47" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="2 6">
+    <animateTransform attributeName="transform" type="rotate" values="0 600 85;360 600 85" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <g clip-path="url(#lens)">
+    <circle cx="600" cy="85" r="62" fill="url(#metal)"/>
+    <g transform="translate(600 85)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1.25;0.08;0.08;1.25;1.25" keyTimes="0;0.25;0.55;0.8;1" keySplines="0.6 0 0.4 1;0 0 1 1;0.6 0 0.4 1;0 0 1 1" calcMode="spline" dur="5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" additive="sum" values="0;55;55;0;0" keyTimes="0;0.25;0.55;0.8;1" keySplines="0.6 0 0.4 1;0 0 1 1;0.6 0 0.4 1;0 0 1 1" calcMode="spline" dur="5s" repeatCount="indefinite"/>
+        <g transform="translate(-600 -85)">
+      <polygon points="639.8,108.0 600.0,131.0 560.2,108.0 560.2,62.0 600.0,39.0 639.8,62.0" fill="#050505"/>
+      <circle cx="588" cy="71" r="7" fill="#FF3B47" opacity="0.35"/>
+      <g stroke="#FF3B47" stroke-opacity="0.75" stroke-width="2" vector-effect="non-scaling-stroke"><line vector-effect="non-scaling-stroke" x1="639.8" y1="108.0" x2="-659.2" y2="858.0"/><line vector-effect="non-scaling-stroke" x1="600.0" y1="131.0" x2="-699.0" y2="-619.0"/><line vector-effect="non-scaling-stroke" x1="560.2" y1="108.0" x2="560.2" y2="-1392.0"/><line vector-effect="non-scaling-stroke" x1="560.2" y1="62.0" x2="1859.2" y2="-688.0"/><line vector-effect="non-scaling-stroke" x1="600.0" y1="39.0" x2="1899.0" y2="789.0"/><line vector-effect="non-scaling-stroke" x1="639.8" y1="62.0" x2="639.8" y2="1562.0"/></g>
+
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="600" y="190" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#8B8B93" letter-spacing="2">■ STOP  ·  OBRIGADO POR ASSISTIR ATÉ AQUI</text>
+</svg>

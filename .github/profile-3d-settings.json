@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-visor.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#ECECEE",
+  "strongColor": "#FF3B47",
+  "weakColor": "#8B8B93",
+  "radarColor": "#E63946",
+  "growingAnimation": true,
+  "contribColors": ["#1c1c1f", "#5c0f16", "#9b111e", "#d61f2f", "#ff3b47"]
+}

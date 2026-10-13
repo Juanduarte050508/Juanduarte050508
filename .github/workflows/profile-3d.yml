@@ -1,0 +1,38 @@
+# Gera o gráfico 3D de contribuições nas cores do perfil.
+# Roda sozinho todo dia às 03:00 (horário de Brasília) e também pode ser
+# disparado na mão pela aba Actions (botão "Run workflow").
+name: Grafico 3D de contribuicoes
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC = 03:00 em São Paulo
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:                 # gera de novo quando as cores ou este arquivo mudam
+      - .github/profile-3d-settings.json
+      - .github/workflows/profile-3d.yml
+
+permissions:
+  contents: write          # permite que a Action salve o SVG gerado no repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json   # cores personalizadas
+
+      - name: Salvar o gráfico no repositório
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "atualiza grafico 3D de contribuicoes"; then
+            git push
+          fi
