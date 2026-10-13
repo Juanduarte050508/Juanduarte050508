@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Sobre mim: Graduação: Engenharia de Software · FIAP; Formação Técnica: Técnico em Mecatrônica · ETEC; Localização: São Paulo, Brasil; Foco: Full-Stack · IA / Visão Computacional · Automação; Em Busca De: Estágio em Engenharia de Software; Fun Fact: Construí uma mão robótica controlada por webcam">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="379" rx="16" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- painel do sistema -->
+  <rect x="24" y="24" width="340" height="332" rx="12" fill="url(#card)" stroke="#FACC15" stroke-opacity="0.35"/>
+  <circle cx="48" cy="48" r="5" fill="#FACC15"/><circle cx="66" cy="48" r="5" fill="#F59E0B"/><circle cx="84" cy="48" r="5" fill="#B45309"/>
+  <text x="340" y="53" text-anchor="end" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#8b949e">juan.system</text>
+  <line x1="24" y1="70" x2="364" y2="70" stroke="#FACC15" stroke-opacity="0.2"/>
+  <text x="48" y="112" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="27" font-weight="700" fill="url(#gold)">JUAN.SYSTEM</text>
+  <text x="48" y="134" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8b949e">v2026.2 · initializing...</text>
+  <rect x="48" y="152" width="292" height="8" rx="4" fill="#21262d"/>
+  <rect x="48" y="152" width="0" height="8" rx="4" fill="url(#gold)"><animate attributeName="width" values="0;292" dur="1.4s" fill="freeze"/></rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.0s" fill="freeze"/>
+    <path d="M48 190 l4 4 l8 -9" fill="none" stroke="#FACC15" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="196" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="14.5" fill="#c9d1d9">Mechatronics background loaded</text></g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze"/>
+    <path d="M48 220 l4 4 l8 -9" fill="none" stroke="#FACC15" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="226" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="14.5" fill="#c9d1d9">Computer vision module online</text></g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.0s" fill="freeze"/>
+    <path d="M48 250 l4 4 l8 -9" fill="none" stroke="#FACC15" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="256" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="14.5" fill="#c9d1d9">Full-stack engine activated</text></g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze"/>
+    <path d="M48 280 l4 4 l8 -9" fill="none" stroke="#FACC15" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="286" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="14.5" fill="#c9d1d9">VisuAll mounted</text></g>
+  <circle cx="54" cy="327" r="5" fill="#FACC15"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="72" y="332" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="15" font-weight="700" letter-spacing="1.5" fill="#FACC15">STATUS: ONLINE</text>
+
+  <!-- dados -->
+  <rect x="410" y="46" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="56" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">GRADUAÇÃO</text>
+  <text x="428" y="81" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">Engenharia de Software · FIAP</text>
+  <rect x="410" y="99" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="109" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">FORMAÇÃO TÉCNICA</text>
+  <text x="428" y="134" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">Técnico em Mecatrônica · ETEC</text>
+  <rect x="410" y="152" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="162" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">LOCALIZAÇÃO</text>
+  <text x="428" y="187" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">São Paulo, Brasil</text>
+  <rect x="410" y="205" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="215" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">FOCO</text>
+  <text x="428" y="240" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">Full-Stack · IA / Visão Computacional · Automação</text>
+  <rect x="410" y="258" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="268" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">EM BUSCA DE</text>
+  <text x="428" y="293" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">Estágio em Engenharia de Software</text>
+  <rect x="410" y="311" width="3" height="36" rx="1.5" fill="url(#gold)"/>
+  <text x="428" y="321" font-family="Consolas, 'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.5" fill="#FACC15">FUN FACT</text>
+  <text x="428" y="346" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ECECEE">Construí uma mão robótica controlada por webcam</text>
+</svg>

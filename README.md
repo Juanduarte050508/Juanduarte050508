@@ -14,58 +14,22 @@
 
 </div>
 
----
-
-## 🤖 JUAN AI CORE
-
-```bash
-╭──────────────────────────────╮
-│    JUAN.SYSTEM  v2026.2      │
-╰──────────────────────────────╯
-
-Initializing system...
-
-████████████████████ 100%
-
-✔ Mechatronics background loaded
-✔ Computer vision module online
-✔ Full-stack engine activated
-✔ VisuAll mounted
-
-STATUS: ONLINE 🚀
-```
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 👨‍💻 About Me
 
-```python
-class JuanDuarte:
-    def __init__(self):
-        self.name       = "Juan Duarte Moura"
-        self.role       = "Software Engineering Student @ FIAP"
-        self.background = "Mechatronics Technician (ETEC)"
-        self.location   = "São Paulo, Brazil 🇧🇷"
-        self.focus      = ["Full-Stack Dev", "AI / Computer Vision", "Automation"]
-        self.stack      = {
-            "languages": ["Python", "JavaScript", "TypeScript", "C++", "HTML", "CSS"],
-            "web":       ["React", "Node.js"],
-            "ai":        ["OpenCV", "MediaPipe", "TensorFlow", "Keras", "scikit-learn"],
-            "hardware":  ["Arduino", "ESP32", "Fusion 360"],
-        }
-        self.seeking    = "Software Engineering Internship (Estágio)"
-        self.fun_fact   = "I built a robotic hand controlled by a webcam"
+<div align="center">
 
-    def current_mission(self):
-        return "Turning hardware-software integration into great software."
-```
+<img src="./assets/about.svg" width="100%" alt="JUAN.SYSTEM online — Graduação: Engenharia de Software na FIAP · Formação técnica: Técnico em Mecatrônica pela ETEC · Localização: São Paulo, Brasil · Foco: Full-Stack, IA / Visão Computacional e Automação · Em busca de: estágio em Engenharia de Software · Fun fact: construí uma mão robótica controlada por webcam"/>
+
+</div>
 
 Sou um desenvolvedor com base sólida em engenharia, migrando do mundo de
 **robótica e sistemas embarcados** para o **desenvolvimento de software moderno**.
 A formação em mecatrônica me deixa confortável na ponte entre o código e o mundo
 físico — de pipelines de visão computacional a aplicações web full-stack.
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## ⚡ Tech Stack
 
@@ -83,7 +47,7 @@ físico — de pipelines de visão computacional a aplicações web full-stack.
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🚀 Featured Projects
 
@@ -123,26 +87,17 @@ frases montadas por lista de tokens.
 | 🤟 [**VisuAll**](https://github.com/Juanduarte050508/VisuAll) | Reconhecimento de Libras em tempo real, no celular e em óculos inteligentes | Python · TensorFlow · MediaPipe |
 | 🦾 [**Robotic Hand**](https://github.com/Juanduarte050508/Engineering-Portfolio) | TCC de Mecatrônica: mão robótica controlada por webcam, com 5 servos acionados por Arduino. O precursor do VisuAll | Python · OpenCV · Arduino C++ · Fusion 360 |
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🧠 Current Mission
 
-```bash
-> Loading objectives...
+<div align="center">
 
-[██████████] VisuAll — FIAP Challenge 2026 / NEXT
+<img src="./assets/mission.svg" width="100%" alt="VisuAll — FIAP Challenge 2026: 100% · Full-Stack JavaScript: 80% · Machine Learning e Visão Computacional: 70% · Estágio em Engenharia de Software: 50%"/>
 
-[████████░░] Full-Stack JavaScript (React + Node + Express)
+</div>
 
-[███████░░░] Machine Learning & Computer Vision
-
-[█████░░░░░] Estágio em Engenharia de Software
-
-STATUS:
-Never stop learning 🚀
-```
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📊 GitHub Analytics
 
@@ -161,7 +116,7 @@ Never stop learning 🚀
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🐍 Contribution Animation
 
@@ -171,7 +126,7 @@ Never stop learning 🚀
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🌎 Connect With Me
 
@@ -183,7 +138,7 @@ Never stop learning 🚀
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
