@@ -1,151 +1,196 @@
 <!--
   README DE PERFIL — Juan Duarte Moura
-  Conceito: o perfil é o visor de uma câmera; cada seção é um "frame".
-  Arquivos locais (pasta assets/): banner.svg, typing.svg, divider.svg,
-  shutter.svg e visuall-logo.png — todas as animações são SVG do próprio repo.
+  Tema: preto + dourado (as cores do VisuAll).
+  Banner, texto digitando e rodapé são SVGs do próprio repo (pasta assets/),
+  então não dependem de serviço externo. Os cards do bloco "GitHub Analytics"
+  dependem de serviços gratuitos: se algum cair, é só apagar a linha dele.
 -->
 
-<p align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Juan Duarte Moura — Eng. de Software, Python, Visão Computacional e Hardware"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/typing.svg" width="650" alt="detectando: Python, Visão Computacional, Machine Learning, Full-Stack JavaScript, Arduino + ESP32"/>
-</p>
+<img width="100%" src="./assets/banner.svg" alt="Juan Duarte Moura — Software Engineering, AI e Visão Computacional"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-duarte-moura"><img src="https://img.shields.io/badge/LinkedIn-161618?style=flat-square&logo=linkedin&logoColor=FF3B47" alt="LinkedIn"/></a>
-  <a href="mailto:juanduarte0505008@gmail.com"><img src="https://img.shields.io/badge/Email-161618?style=flat-square&logo=gmail&logoColor=FF3B47" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/FIAP-161618?style=flat-square" alt="FIAP"/>
-  <img src="https://img.shields.io/badge/São_Paulo-161618?style=flat-square&logo=googlemaps&logoColor=FF3B47" alt="São Paulo"/>
-</p>
+<img src="./assets/typing.svg" width="750" alt="System booting... Software Engineering Student | Python | AI | Computer Vision | Full-Stack | From Mechatronics to Code"/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+</div>
 
-### `[ FRAME 01 ]` &nbsp;sobre mim
+---
 
-| | |
-|---|---|
-| 🎓 **Graduação** | Engenharia de Software na **FIAP** |
-| 🔧 **Formação técnica** | Técnico em **Mecatrônica** pela **ETEC** |
-| 📍 **Localização** | São Paulo, Brasil |
-| 🎯 **Foco** | Full-Stack · IA / Visão Computacional · Automação |
-| 💼 **Em busca de** | Estágio em Engenharia de Software |
+## 🤖 JUAN AI CORE
+
+```bash
+╭──────────────────────────────╮
+│    JUAN.SYSTEM  v2026.2      │
+╰──────────────────────────────╯
+
+Initializing system...
+
+████████████████████ 100%
+
+✔ Mechatronics background loaded
+✔ Computer vision module online
+✔ Full-stack engine activated
+✔ VisuAll mounted
+
+STATUS: ONLINE 🚀
+```
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class JuanDuarte:
+    def __init__(self):
+        self.name       = "Juan Duarte Moura"
+        self.role       = "Software Engineering Student @ FIAP"
+        self.background = "Mechatronics Technician (ETEC)"
+        self.location   = "São Paulo, Brazil 🇧🇷"
+        self.focus      = ["Full-Stack Dev", "AI / Computer Vision", "Automation"]
+        self.stack      = {
+            "languages": ["Python", "JavaScript", "TypeScript", "C++", "HTML", "CSS"],
+            "web":       ["React", "Node.js"],
+            "ai":        ["OpenCV", "MediaPipe", "TensorFlow", "Keras", "scikit-learn"],
+            "hardware":  ["Arduino", "ESP32", "Fusion 360"],
+        }
+        self.seeking    = "Software Engineering Internship (Estágio)"
+        self.fun_fact   = "I built a robotic hand controlled by a webcam"
+
+    def current_mission(self):
+        return "Turning hardware-software integration into great software."
+```
 
 Sou um desenvolvedor com base sólida em engenharia, migrando do mundo de
 **robótica e sistemas embarcados** para o **desenvolvimento de software moderno**.
 A formação em mecatrônica me deixa confortável na ponte entre o código e o mundo
 físico — de pipelines de visão computacional a aplicações web full-stack.
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+---
 
-### `[ FRAME 02 ]` &nbsp;projetos
+## ⚡ Tech Stack
 
-<details open>
-<summary><b>🤟 VisuAll</b> — reconhecimento de Libras em tempo real &nbsp;<code>confiança: 0.99</code></summary>
-<br/>
+<div align="center">
 
-<img src="./assets/visuall-logo.png" alt="Logo do VisuAll" width="140" align="left" hspace="16"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,nodejs,tensorflow,opencv,sklearn,arduino,git,github,vscode&perline=8" alt="Python, JavaScript, TypeScript, C++, HTML, CSS, React, Node.js, TensorFlow, OpenCV, scikit-learn, Arduino, Git, GitHub, VS Code"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=FACC15" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=FACC15" alt="Keras"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=FACC15" alt="Pandas"/>
+<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=FACC15" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Fusion_360-0d1117?style=for-the-badge&logo=autodesk&logoColor=FACC15" alt="Fusion 360"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤟 VisuAll — reconhecimento de Libras em tempo real
+
+<img src="./assets/visuall-logo.png" alt="Logo do VisuAll" width="150" align="left" hspace="16"/>
 
 Sistema que reconhece Libras pela câmera e traduz em tempo real, aproximando
 pessoas surdas e ouvintes. Funciona no celular e também em **óculos inteligentes
 com ESP32**, que fazem a mesma leitura e deixam a conversa com as mãos livres.
+
 Desenvolvido em equipe no **Challenge FIAP 2026**, em parceria com a **JOVI** —
 o VisuAll é um dos **6 finalistas do NEXT** (24/10/2026).
 
 <br clear="left"/>
 
-**Como funciona**
+| 🟡 Função | 💡 O que faz |
+|---|---|
+| 🔤 **Modo Alfabeto** | Reconhece a soletração completa, de A a Z, incluindo as letras com movimento |
+| 🧍 **Modo Corpo** | Reconhece sinais pelos pontos do corpo, rosto e mãos: *computador*, *ajuda*, *pessoa*, *surda* e *conversar* |
+| 🗣️ **Resposta por voz** | Quem ouve fala ou digita e o texto aparece para a pessoa surda ler; dá para girar a tela e aumentar a letra |
+| 🕘 **Histórico** | Guarda o que já foi dito na conversa |
+| 👓 **Óculos (ESP32)** | Alterna entre a câmera do celular e a dos óculos; com a tela bloqueada, o celular fica no bolso e o áudio da tradução sai pelo fone ou pela haste |
 
-- 🔤 **Modo Alfabeto** — reconhece a soletração completa, de A a Z, incluindo as letras com movimento
-- 🧍 **Modo Corpo** — reconhece sinais pelos pontos do corpo, rosto e mãos, com as palavras-chave *computador*, *ajuda*, *pessoa*, *surda* e *conversar*
-- 🗣️ **Resposta por voz** — quem ouve fala ou digita e o texto aparece para a pessoa surda ler, com opção de girar a tela para aumentar a letra
-- 🕘 **Histórico** — guarda o que já foi dito na conversa
-- 👓 **Óculos** — alterna entre a câmera do celular e a dos óculos; com a tela bloqueada, o celular fica no bolso enquanto os óculos fazem a leitura e o áudio da tradução sai pelo fone ou pela haste
+**Por baixo do capô:** alfabeto com modelos MLP estáticos e dinâmicos · sinais corporais com
+MediaPipe Holistic + LSTM · backend e frontend unificados · calibração facial adaptativa ·
+frases montadas por lista de tokens.
 
-**Por baixo do capô**
+`Python` · `TensorFlow/Keras` · `MediaPipe` · `scikit-learn` · `WebSocket` · `Kotlin` · `ESP32`
 
-- 🧠 **Alfabeto** com modelos MLP estáticos e dinâmicos
-- 🦴 **Sinais corporais** com MediaPipe Holistic + LSTM
-- 🔗 Backend e frontend unificados, calibração facial adaptativa e frases montadas por lista de tokens
-
-`Python` `TensorFlow/Keras` `MediaPipe` `scikit-learn` `WebSocket` `Kotlin` `ESP32`
-
-[**abrir repositório ↗**](https://github.com/Juanduarte050508/VisuAll)
-
-</details>
-
-<details open>
-<summary><b>🦾 Robotic Hand</b> — mão robótica controlada por visão computacional &nbsp;<code>confiança: 0.97</code></summary>
-<br/>
-
-Projeto final (TCC) do curso técnico em Mecatrônica. Uma webcam captura os pontos de
-referência da mão em tempo real via OpenCV/MediaPipe, e um Arduino reproduz os
-movimentos em 5 servomotores. Foi o precursor direto do VisuAll.
-
-`Python` `OpenCV` `MediaPipe` `Arduino C++` `Fusion 360`
-
-[**abrir repositório ↗**](https://github.com/Juanduarte050508/Engineering-Portfolio)
-
-</details>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
-
-### `[ FRAME 03 ]` &nbsp;tecnologias
-
-**Linguagens**<br/>
-<img src="https://img.shields.io/badge/Python-161618?style=for-the-badge&logo=python&logoColor=FF3B47" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-161618?style=for-the-badge&logo=javascript&logoColor=FF3B47" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-161618?style=for-the-badge&logo=typescript&logoColor=FF3B47" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C++-161618?style=for-the-badge&logo=cplusplus&logoColor=FF3B47" alt="C++"/>
-<img src="https://img.shields.io/badge/HTML5-161618?style=for-the-badge&logo=html5&logoColor=FF3B47" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-161618?style=for-the-badge&logo=css3&logoColor=FF3B47" alt="CSS3"/>
-
-**IA e Visão Computacional**<br/>
-<img src="https://img.shields.io/badge/OpenCV-161618?style=for-the-badge&logo=opencv&logoColor=FF3B47" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/MediaPipe-161618?style=for-the-badge&logo=google&logoColor=FF3B47" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/TensorFlow-161618?style=for-the-badge&logo=tensorflow&logoColor=FF3B47" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-161618?style=for-the-badge&logo=keras&logoColor=FF3B47" alt="Keras"/>
-<img src="https://img.shields.io/badge/scikit--learn-161618?style=for-the-badge&logo=scikitlearn&logoColor=FF3B47" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-161618?style=for-the-badge&logo=pandas&logoColor=FF3B47" alt="Pandas"/>
-
-**Web**<br/>
-<img src="https://img.shields.io/badge/React-161618?style=for-the-badge&logo=react&logoColor=FF3B47" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-161618?style=for-the-badge&logo=nodedotjs&logoColor=FF3B47" alt="Node.js"/>
-
-**Hardware e Modelagem 3D**<br/>
-<img src="https://img.shields.io/badge/Arduino-161618?style=for-the-badge&logo=arduino&logoColor=FF3B47" alt="Arduino"/>
-<img src="https://img.shields.io/badge/ESP32-161618?style=for-the-badge&logo=espressif&logoColor=FF3B47" alt="ESP32"/>
-<img src="https://img.shields.io/badge/Fusion_360-161618?style=for-the-badge&logo=autodesk&logoColor=FF3B47" alt="Fusion 360"/>
-
-**Ferramentas**<br/>
-<img src="https://img.shields.io/badge/Git-161618?style=for-the-badge&logo=git&logoColor=FF3B47" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-161618?style=for-the-badge&logo=github&logoColor=FF3B47" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-161618?style=for-the-badge&logo=visualstudiocode&logoColor=FF3B47" alt="VS Code"/>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
-
-### `[ FRAME 04 ]` &nbsp;atividade
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-visor.svg" width="100%" alt="Gráfico 3D de contribuições no GitHub"/>
-</p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
-
-### `[ FRAME 05 ]` &nbsp;próximos passos
-
-- 🔭 Finalizar o **VisuAll** para o Challenge 2026 da FIAP e apresentá-lo no **NEXT**
-- 🌱 Aprofundar **Full-Stack JavaScript** (React + Node + Express)
-- 💼 Conquistar meu primeiro **estágio** em Engenharia de Software
-- 🤝 Colaborar em projetos de **IA / Visão Computacional**
+[**→ Ver projeto**](https://github.com/Juanduarte050508/VisuAll)
 
 <br/>
 
-<p align="center"><i>"From the physical to the digital — building things that work."</i></p>
+| 🚀 Project | 💡 Description | 🛠️ Stack |
+|---|---|---|
+| 🤟 [**VisuAll**](https://github.com/Juanduarte050508/VisuAll) | Reconhecimento de Libras em tempo real, no celular e em óculos inteligentes | Python · TensorFlow · MediaPipe |
+| 🦾 [**Robotic Hand**](https://github.com/Juanduarte050508/Engineering-Portfolio) | TCC de Mecatrônica: mão robótica controlada por webcam, com 5 servos acionados por Arduino. O precursor do VisuAll | Python · OpenCV · Arduino C++ · Fusion 360 |
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+---
 
-<p align="center">
-  <img src="./assets/shutter.svg" width="100%" alt="■ STOP · obrigado por assistir até aqui"/>
-</p>
+## 🧠 Current Mission
+
+```bash
+> Loading objectives...
+
+[██████████] VisuAll — FIAP Challenge 2026 / NEXT
+
+[████████░░] Full-Stack JavaScript (React + Node + Express)
+
+[███████░░░] Machine Learning & Computer Vision
+
+[█████░░░░░] Estágio em Engenharia de Software
+
+STATUS:
+Never stop learning 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanduarte050508&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FACC15&icon_color=F59E0B&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanduarte050508&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FACC15&text_color=c9d1d9" alt="Linguagens mais usadas"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Juanduarte050508&hide_border=true&background=0d1117&ring=FACC15&fire=F59E0B&currStreakLabel=FACC15&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub streak"/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-gold.svg" width="100%" alt="Gráfico 3D de contribuições no GitHub"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Juanduarte050508/Juanduarte050508/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Juanduarte050508"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FACC15" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/juan-duarte-moura"><img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/></a>
+<a href="mailto:juanduarte0505008@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💛 "From the physical to the digital — building things that work."
+
+<img src="https://komarev.com/ghpvc/?username=Juanduarte050508&style=for-the-badge&color=FACC15" alt="Visitas ao perfil"/>
+
+</div>
+
+<img width="100%" src="./assets/footer.svg" alt=""/>
